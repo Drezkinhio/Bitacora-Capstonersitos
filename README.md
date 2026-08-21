@@ -26,7 +26,7 @@ El Hub Providencia recibe diariamente a emprendedores, startups, estudiantes y v
 - Puntualidad
 
 ## Normas de funcionamiento
-1. Canal principal: WhatsApp; Discord para reuniones.
+1. Canal principal: Presencial; WhatsApp; Discord para reuniones.
 2. Espera máxima de 10 minutos para iniciar reuniones.
 3. Distribución equitativa de tareas.
 4. Las decisiones se toman por votación de mayoría simple.
