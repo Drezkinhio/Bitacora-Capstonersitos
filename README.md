@@ -18,7 +18,7 @@ El Hub Providencia recibe diariamente a emprendedores, startups, estudiantes y v
 | Marcos Quilapan| Ingeniería Civil Industrial | Coordinación | [@tu_usuario_de_github] |
 | Catalina Romero | [Carrera] | [Rol] | [@usuario] |
 | Byron Gonzalez | [Carrera] | [Rol] | [@usuario] |
-| Thiare Muñoz | [Carrera] | [Rol] | [@usuario] |
+| Thiare Muñoz | Ingeniería Civil Industrial | Diseñadora| [@usuario] |
 
 ## Valores del equipo
 - Compromiso con las entregas
