@@ -15,10 +15,10 @@ El Hub Providencia recibe diariamente a emprendedores, startups, estudiantes y v
 ## Equipo
 | Integrante | Carrera o especialidad | Rol inicial | Usuario de GitHub |
 |---|---|---|---|
-| Marcos | Ingeniería Civil Industrial | Coordinación | [@tu_usuario_de_github] |
-| [Nombre 2] | [Carrera] | [Rol] | [@usuario] |
-| [Nombre 3] | [Carrera] | [Rol] | [@usuario] |
-| [Nombre 4] | [Carrera] | [Rol] | [@usuario] |
+| Marcos Quilapan| Ingeniería Civil Industrial | Coordinación | [@tu_usuario_de_github] |
+| Catalina Romero | [Carrera] | [Rol] | [@usuario] |
+| Byron Gonzalez | [Carrera] | [Rol] | [@usuario] |
+| Thiare Muñoz | [Carrera] | [Rol] | [@usuario] |
 
 ## Valores del equipo
 - Compromiso con las entregas
