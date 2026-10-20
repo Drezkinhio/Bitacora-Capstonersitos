@@ -80,8 +80,26 @@ El problema lo vive el equipo de gestión del Hub Providencia (al no tener datos
 - [S09 - Sesión de Trabajo Autónomo: Síntesis e Integración del Diagnóstico](bitacora/S09.md)
 
 ## Evidencias principales
-- [Por agregar a medida que avance el proyecto]
-
+1. **Acta de Constitución y Gobernanza del Equipo (S02)**
+   - **Contenido:** Definición del nombre del equipo (*Capstonersitos*), matriz de roles (Líder, UX/UI, Datos, Desarrollador), 9 valores operativos, 6 normas de trabajo y compromisos individuales SMART firmados a 4 semanas.
+   - **Sustento:** Registro en bitácora de la reunión presencial del 20-08-2026 y configuración del repositorio oficial en GitHub.
+     
+2. **Herramientas de Diagnóstico y Empatía (S03)**
+   - **Mapa Conceptual del Sistema:** Desglose del problema (falta de datos), actores, causas (ausencia de enrolamiento unificado) y consecuencias (cuello de botella en accesos).
+   - **Mapa de Empatía del Usuario Visitante:** Identificación de frustraciones (proceso de ingreso repetitivo) y aspiraciones (fluidez en el acceso y disponibilidad de espacios).
+   - **Ficha Sintetizada del Desafío:** Documentación del contexto institucional del Hub Providencia (sedes Los Jesuitas 881 y Castillito Sermini, capacidad de 200 personas, coworks específicos) y formulación de preguntas prioritarias de investigación.
+   - **Registro Fotográfico Anexo:**
+  
+3. **Informe y Registro Fotográfico de Salida a Terreno (S07)**
+   - **Hallazgo de Vulnerabilidad de Datos:** Constatación en terreno de que el formulario de ingreso actual no valida la estructura ni veracidad del RUT, generando inconsistencias y pérdida de calidad en la base de datos municipal.
+   - **Diagnóstico de Ausentismo y Fricción:** Identificación del problema de inasistencia a reservas gratuitas y la falta de un sistema con enrolamiento inicial simplificado.
+   - **Levantamiento Espacial y Flujo Peatonal:** Recorrido por coworks, salas y auditorio para determinar puntos estratégicos de registro que no generen congestión.
+   - **Registro Fotográfico Anexo:**
+     
+4. **Registro de Gestión de Contingencia y Trabajo Autónomo (S08 - S09)**
+   - **Plan de Mitigación (S08):** Minuta de acuerdo de trabajo remoto/asíncrono tras la contingencia por movilización estudiantil el 01-10-2026.
+   - **Sintetización para la Solución Técnica (S09):** Formalización de los requerimientos base para el prototipo (registro simplificado, validación automática de RUT, base de datos estructurada y dashboard en herramientas *open source* / sin costo de licencias).
+     
 ## Decisiones relevantes
 | Fecha | Decisión | Evidencia o criterio utilizado |
 |---|---|---|
