@@ -102,8 +102,13 @@ El problema lo vive el equipo de gestión del Hub Providencia (al no tener datos
      
 ## Decisiones relevantes
 | Fecha | Decisión | Evidencia o criterio utilizado |
-|---|---|---|
-| 20-08-2026 | Conformación de equipo y roles | Reunión inicial de Capstone |
+| :--- | :--- | :--- |
+| 20-08-2026 | Conformación de equipo y roles | Reunión inicial de Capstone y redacción del Acta de Constitución del Equipo (S02). |
+| 27-08-2026 | Enfoque del diagnóstico en el usuario visitante | Construcción del Mapa Conceptual y Mapa de Empatía (S03). |
+| 10-09-2026 | Estructuración formal de la Ficha del Desafío | Delimitación del problema central de gestión a partir de la Evaluación 1 (S05). |
+| 24-09-2026 | Validación en terreno de vulnerabilidad de datos | Detección de la falta de validación del RUT y ausentismo en reservas durante la visita al Hub Providencia (S07). |
+| 01-10-2026 | Activación de plan de mitigación por contingencia | Minuta de acuerdos y ajuste de cronograma por movilización estudiantil (S08). |
+| 08-10-2026 | Definición de requerimientos base para el prototipo | Selección de herramientas sin costo de licenciamiento y registro simplificado (S09). |
 
 ## Próximo hito
 Realizar el levantamiento del flujo actual de ingreso de los espacios en el Hub y comenzar a explorar opciones de registro sin costo de licencia.
