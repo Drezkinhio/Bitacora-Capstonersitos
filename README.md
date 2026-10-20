@@ -3,8 +3,11 @@
 ## Capstone Intermedio 2026
 
 **Equipo:** Capstonersitos
+
 **Desafío:** 01 | Edificios Inteligentes (Caracterización de usuarios del Hub Providencia)
+
 **Contraparte:** Municipalidad de Providencia / Hub Providencia
+
 **Estado actual:** En desarrollo
 
 ![Foto del equipo](imagenes/S01/foto-equipo.jpg)
