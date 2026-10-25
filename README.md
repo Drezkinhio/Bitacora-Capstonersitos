@@ -78,6 +78,7 @@ El problema lo vive el equipo de gestión del Hub Providencia (al no tener datos
 - [S07 - Salida a Terreno: Visita al Hub Providencia](bitacora/S07.md) 
 - [S08 - Contingencia y Ajuste de Cronograma](bitacora/S08.md)
 - [S09 - Sesión de Trabajo Autónomo: Síntesis e Integración del Diagnóstico](bitacora/S09.md)
+- [S11 - Revisión de Propuesta, Viabilidad Operativa y Preparación Entrega 2](bitacora/S11.md)
 
 ## Evidencias principales
 1. **Acta de Constitución y Gobernanza del Equipo (S02)**
